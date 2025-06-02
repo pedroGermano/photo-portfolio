@@ -1,6 +1,6 @@
 # Photo Portfolio
 
-> A simple project to teach my students in a course on Udemy.
+> A simple project to teach my students in a course on Udemy and youtube channel.
 
 Big Picture by HTML5 UP
 
